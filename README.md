@@ -93,9 +93,9 @@ build/app/outputs/flutter-apk/app-release.apk
 
 Screenshots of the implemented homepage sections are included separately as part of the submission.
 
-![Home Page 1](screenshots/Hope_Page_1.jpg)
-![Home Page 2](screenshots/Hope_Page_2.jpg)
-![Home Page 3](screenshots/Hope_Page_3.jpg)
+![Home Page 1](screenshots/Home_Page_1.jpg)
+![Home Page 2](screenshots/Home_Page_2.jpg)
+![Home Page 3](screenshots/Home_Page_3.jpg)
 
 ---
 
