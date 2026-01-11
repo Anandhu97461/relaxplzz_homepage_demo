@@ -49,16 +49,16 @@ This repository contains a Flutter-based implementation of the **K-Store homepag
 ```
 lib/
 ├── models/
-│   └── product.dart
+│ └── product.dart
 ├── screens/
-│   └── home_screen.dart
+│ └── home_screen.dart
 ├── widgets/
-│   ├── category_item.dart
-│   ├── product_card.dart
-│   ├── promo_carousel.dart
-│   ├── special_offer_card.dart
-│   ├── special_offer_carousel.dart
-│   └── section_header.dart
+│ ├── category_item.dart
+│ ├── product_card.dart
+│ ├── promo_carousel.dart
+│ ├── section_header.dart
+│ ├── special_offer_card.dart
+│ └── special_offer_carousel.dart
 └── main.dart
 ```
 
